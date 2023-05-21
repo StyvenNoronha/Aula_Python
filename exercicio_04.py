@@ -6,4 +6,4 @@ if a > b :
 elif a < b:
     print(f' o valor {b} e maior que o {a}')
 else:
-  print(' os dois valores sao iguais ')       
+  print(' os dois valores')       
