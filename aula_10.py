@@ -1,0 +1,1 @@
+print('valor' if False else 'valor2')
